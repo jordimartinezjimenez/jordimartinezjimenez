@@ -37,10 +37,10 @@
   </a>
 </div>
 
-### ⚡ Recent Activity
+###
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<h2 align="center">⚡ Recent Activity</h2>
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ###
